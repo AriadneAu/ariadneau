@@ -5,3 +5,5 @@ A VR conversion of Minecraft without direct source code modification, using "Mix
 
 ![](https://github.com/AutumnAurelium/WorldHeightBooster2/blob/main/showcase.png?raw=true)
 A technical demonstration of Minecraft worlds working with significantly higher world heights than the vanilla game allows, through patches to the game's internals.
+
+Outside of these, I've done professional work doing modding for YouTube creators like SSundee and BeckBroJack. These projects unfortunately are not available to view at this time, but the rest of my work that didn't fit here is under my [repositories here on GitHub](https://github.com/AutumnAurelium?tab=repositories).
